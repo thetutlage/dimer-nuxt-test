@@ -1,0 +1,10 @@
+{
+  "domain": "",
+  "cname": "",
+  "defaultVersion": "master",
+  "versions": {
+    "master": "docs/master"
+  },
+  "compilerOptions": {
+  }
+}

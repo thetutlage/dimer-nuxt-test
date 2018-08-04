@@ -1,0 +1,5 @@
+dist
+node_modules
+nuxt-app/.nuxt
+nuxt-app/dist
+nuxt-app/node_modules
